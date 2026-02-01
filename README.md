@@ -56,3 +56,8 @@ To prevent local optima and maintain genetic diversity, the system utilizes a du
 
 ```bash
 pip install -r requirements.txt
+<img width="393" height="596" alt="gen0" src="https://github.com/user-attachments/assets/d5b3282e-aba4-4f11-8f69-79abeb1741e8" />
+<img width="387" height="590" alt="gen1" src="https://github.com/user-attachments/assets/881b93f5-17e6-46d8-b2a4-c1574b015acf" />
+<img width="389" height="584" alt="gen5" src="https://github.com/user-attachments/assets/1e7a2202-b482-4934-ac68-103b1f3e32ce" />
+
+
