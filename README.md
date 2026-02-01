@@ -1,6 +1,6 @@
 # GIGA BIRD
 
-**GIGA BIRD** is a high-population genetic algorithm simulation implemented in Python. It demonstrates the power of neuroevolution by training a population of 1,000 autonomous agents to navigate a procedurally generated obstacle course. Unlike traditional reinforcement learning that relies on backpropagation, GIGA BIRD uses a Darwinian selection process to evolve neural network weights over successive generations.
+**GIGA BIRD** is a high-population genetic algorithm simulation implemented in Python. It demonstrates the power of neuroevolution by training a population of 150 autonomous agents to navigate a procedurally generated obstacle course. Unlike traditional reinforcement learning that relies on backpropagation, GIGA BIRD uses a Darwinian selection process to evolve neural network weights over successive generations.
 
 ---
 
